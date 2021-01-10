@@ -71,7 +71,7 @@ Para validar a senha foram implementados alguns métodos genéricos na nossa cam
 - Método para verificar se uma string contém algum caractere com UpperCase
 - Método para verificar se uma string contém algum caractere com LowerCase
 
-Esses métodos por serem genéricos podem ser utilizados em outras situações que a nossa aplicação possa precisar.
+Esses métodos, por serem genéricos podem ser utilizados em outras situações que a nossa aplicação possa precisar.
 
 Além desses métodos, foram criados mais alguns métodos na Classe **PasswordHelper** por se tratar de regras específicas para a validação de senha. Nesta classe temos:
 
@@ -80,14 +80,14 @@ Além desses métodos, foram criados mais alguns métodos na Classe **PasswordHe
 
 Com esses 5 métodos conseguimos criar facilmente em nosso Helper o método **IsValid** que realizará a  validação de senha:
 
-<img src="https://github.com/souzadeveloper/challenge-itau/blob/master/images/readme04.png">
+<img src="https://github.com/souzadeveloper/challenge-itau/blob/master/images/readme05.png">
 
 ## Testes Unitários
 
 Para testar o código da nossa API, junto com a aplicação temos o nosso projeto de Testes Unitários onde estamos testando nossa rotina de Validação de Senha:
 
-<img src="https://github.com/souzadeveloper/challenge-itau/blob/master/images/readme05.png">
+<img src="https://github.com/souzadeveloper/challenge-itau/blob/master/images/readme06.png">
 
 A nossa classe de Testes testa algumas situação onde a nossa rotina deverá retornar **true** e algumas onde deverá retornar **false**:
 
-<img src="https://github.com/souzadeveloper/challenge-itau/blob/master/images/readme06.png">
+<img src="https://github.com/souzadeveloper/challenge-itau/blob/master/images/readme07.png">
