@@ -33,4 +33,4 @@ Para a execução deste Desafio, foi criado um Projeto Web API no Visual Studio 
 
 **2.** Com o botão direito na **Solution** execute a opção **"Restore NuGet Packages"** para baixar os pacotes externos que foram utilizados no desenvolvimento da Aplicação.
 
-![]((/images/readme01.png)
+![]((https://github.com/souzadeveloper/challenge-itau/images/readme01.png)
