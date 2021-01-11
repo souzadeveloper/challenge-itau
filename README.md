@@ -39,7 +39,7 @@ Para a execução deste Desafio, foi criado um Projeto Web API no Visual Studio 
 
 <img src="https://github.com/souzadeveloper/challenge-itau/blob/master/images/readme02.png">
 
-**4.** Agora você já está apto para executar a API clicando no botão da imagem abaixo:
+**4.** Agora você já está apto para executar a API. Selecione o Projeto **"MS.Challenge.Services.API"** e com o botão direito sobre o mesmo, escolha a opção **""Set as StartUp Project"**. Agora para executar a aplicação clique botão da Barra de Tarefas conforme a imagem abaixo:
 
 <img src="https://github.com/souzadeveloper/challenge-itau/blob/master/images/readme03.png">
 
