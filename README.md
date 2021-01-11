@@ -88,6 +88,6 @@ Para testar o código da nossa API, junto com a aplicação temos o nosso projet
 
 <img src="https://github.com/souzadeveloper/challenge-itau/blob/master/images/readme06.png">
 
-A nossa classe de Testes testa algumas situação onde a nossa rotina deverá retornar **true** e algumas onde deverá retornar **false**:
+A nossa classe de Testes testa algumas situações onde a rotina deverá retornar **true** e algumas onde deverá retornar **false**:
 
 <img src="https://github.com/souzadeveloper/challenge-itau/blob/master/images/readme07.png">
