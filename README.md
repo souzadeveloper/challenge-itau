@@ -92,7 +92,7 @@ A nossa classe de Testes testa algumas situações onde a rotina deverá retorna
 
 <img src="https://github.com/souzadeveloper/challenge-itau/blob/master/images/readme07.png">
 
-Para executar os Testes, no Visual Studio, acesse o Menu **Test > Run** e execute a opção **All Tests**. 
+Para executar os Testes, no Visual Studio, acesse o Menu **Test > Run** e execute a opção **"All Tests"**. 
 
 <img src="https://github.com/souzadeveloper/challenge-itau/blob/master/images/readme08.png">
 
