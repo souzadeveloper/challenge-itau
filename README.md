@@ -91,3 +91,13 @@ Para testar o código da nossa API, junto com a aplicação temos o nosso projet
 A nossa classe de Testes testa algumas situações onde a rotina deverá retornar **true** e algumas onde deverá retornar **false**:
 
 <img src="https://github.com/souzadeveloper/challenge-itau/blob/master/images/readme07.png">
+
+Para executar os Testes, no Visual Studio, acesse o Menu **Test > Run** e execute a opção **All Tests**. 
+
+<img src="https://github.com/souzadeveloper/challenge-itau/blob/master/images/readme08.png">
+
+Abaixo podemos ver o resultados dos nossos Testes:
+
+<img src="https://github.com/souzadeveloper/challenge-itau/blob/master/images/readme09.png">
+
+
